@@ -36,7 +36,7 @@ Flag native-dns
 
 Flag lukko
   description:  Use @lukko@ for file-locking
-  default:      True
+  default:      False
   manual:       True
 
 flag git-rev
